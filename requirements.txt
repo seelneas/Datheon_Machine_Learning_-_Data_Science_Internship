@@ -16,3 +16,5 @@ statsmodels
 tensorflow
 keras
 kaggle
+nltk
+wordcloud

@@ -133,7 +133,7 @@ Datheon_Machine_Learning_&_Data_Science_Internship/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Datheon_Machine_Learning_-_Data_Science_Internship.git
+git clone https://github.com/seelneas/Datheon_Machine_Learning_-_Data_Science_Internship.git
 cd Datheon_Machine_Learning_-_Data_Science_Internship
 ```
 
